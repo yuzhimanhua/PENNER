@@ -30,7 +30,7 @@ You can use the script
 It contains both preprocessing steps and the main expansion algorithm.
 
 ## Citation
-If you find the implementation useful, please cite the following paper:
+Our implementation is adapted from [SetExpan](https://github.com/mickeystroller/SetExpan). If you find the implementation useful, please cite the following paper:
 ```
 @inproceedings{wang2018penner,
   title={PENNER: Pattern-enhanced Nested Named Entity Recognition in Biomedical Literature},
