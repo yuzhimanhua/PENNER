@@ -79,7 +79,7 @@ for idx in range(5):
 				seedNames[entType].append(ename)
 
 ## Expand Result
-with open('ExpanResult.txt', 'w') as fout:
+with open('../../ExpanResult.txt', 'w') as fout:
 	for entType in seedNames:
 		fout.write(entType + ':\n')
 		for idx, entName in enumerate(seedNames[entType]):
