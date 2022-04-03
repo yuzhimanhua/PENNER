@@ -1,6 +1,8 @@
 # PENNER: Pattern-enhanced Nested Named Entity Recognition in Biomedical Literature
 
-This is the implementation of [PENNER: Pattern-enhanced Nested Named Entity Recognition in Biomedical Literature](https://ieeexplore.ieee.org/document/8621485). The general goal of this project is to extract nested structures/patterns from a corpus.
+This repository contains the source code for [**PENNER: Pattern-enhanced Nested Named Entity Recognition in Biomedical Literature**](https://ieeexplore.ieee.org/document/8621485).
+
+The general goal of this project is to extract nested entity structures/patterns from a corpus.
 
 ## Dependency
 The following two packages need to be installed before running our code.
