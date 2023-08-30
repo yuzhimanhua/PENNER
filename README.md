@@ -50,7 +50,7 @@ It contains both preprocessing steps and the main expansion algorithm. The expan
 **IMPORTANT NOTE 2: To modify the input patterns and thresholds, please check Lines 38-46 in ```./src/SetExpan/set_expan_main.py```.**
 
 ## Citation
-Our implementation is adapted from [SetExpan](https://github.com/mickeystroller/SetExpan). If you find the implementation useful, please cite the following paper:
+Our implementation is adapted from [SetExpan](https://github.com/mickeystroller/SetExpan). If you find this repository useful, please cite the following paper:
 ```
 @inproceedings{wang2018penner,
   title={PENNER: Pattern-enhanced Nested Named Entity Recognition in Biomedical Literature},
