@@ -57,7 +57,6 @@ Our implementation is adapted from [SetExpan](https://github.com/mickeystroller/
   author={Wang, Xuan and Zhang, Yu and Li, Qi and Wu, Cathy H. and Han, Jiawei},
   booktitle={BIBM'18},
   pages={540--547},
-  year={2018},
-  organization={IEEE}
+  year={2018}
 }
 ```
